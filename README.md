@@ -1,4 +1,5 @@
 # Power-BI-Adventure-Works-Dashboard
+https://github.com/Roohitabassum/Power-BI-Adventure-Works-Dashboard/blob/main/adventureWorksNew.pdf
 STAGE 1: Connecting & Shaping Data
 
 In this stage, I focused on building automated workflows to extract, transform, and load our project data using Power Query. I explored common data connectors, storage modes, profiling tools, table transformations, and more:
